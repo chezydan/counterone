@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/counterone/static/css/main.7ceaf946.chunk.css",
+    "main.js": "/counterone/static/js/main.c64ebeb2.chunk.js",
+    "main.js.map": "/counterone/static/js/main.c64ebeb2.chunk.js.map",
+    "runtime-main.js": "/counterone/static/js/runtime-main.ceb50415.js",
+    "runtime-main.js.map": "/counterone/static/js/runtime-main.ceb50415.js.map",
+    "static/js/2.e02d4dac.chunk.js": "/counterone/static/js/2.e02d4dac.chunk.js",
+    "static/js/2.e02d4dac.chunk.js.map": "/counterone/static/js/2.e02d4dac.chunk.js.map",
+    "index.html": "/counterone/index.html",
+    "precache-manifest.734e71a6db81e1db4dda0136f065b78c.js": "/counterone/precache-manifest.734e71a6db81e1db4dda0136f065b78c.js",
+    "service-worker.js": "/counterone/service-worker.js",
+    "static/css/main.7ceaf946.chunk.css.map": "/counterone/static/css/main.7ceaf946.chunk.css.map",
+    "static/js/2.e02d4dac.chunk.js.LICENSE.txt": "/counterone/static/js/2.e02d4dac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceb50415.js",
+    "static/js/2.e02d4dac.chunk.js",
+    "static/css/main.7ceaf946.chunk.css",
+    "static/js/main.c64ebeb2.chunk.js"
+  ]
+}
